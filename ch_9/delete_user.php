@@ -48,7 +48,7 @@ echo '<h1>Delete a User</h1>';
                 $r = @mysqli_query($dbc, $q);
 
                 if (mysqli_num_rows($r) == 1) {
-                    
+
                 }
 
-        }
+        }  // Hola
